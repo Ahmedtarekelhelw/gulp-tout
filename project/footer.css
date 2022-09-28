@@ -1,0 +1,8 @@
+footer {
+    font-size: 12px;
+    font-weight: bold;
+    transition: 0.3s;
+    display: flex;
+    transform: translate3d(30deg);
+    clip-path: polygon(100% 0 , 0% 100% , 100% 0%);
+}

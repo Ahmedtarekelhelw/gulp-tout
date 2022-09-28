@@ -1,0 +1,1 @@
+var boot="tarek",x="ahmed",y="ahmed",z="ahmed";
